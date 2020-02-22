@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #1297E0;
+}
+
+.container {
+    max-width: 400px;
+}
+
+.delete {
+    cursor: pointer;
+}
+
+li {
+    color: #000;
+}
+
+.filtered {
+    display: none !important;
+}
